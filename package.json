@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build "
+  },
+  "dependencies": {
+    "lil-gui": "^0.19.2",
+    "three": "^0.168.0",
+    "tweakpane": "^4.0.4",
+    "vite": "^5.4.4"
+  }
+}
